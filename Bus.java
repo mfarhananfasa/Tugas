@@ -16,9 +16,9 @@ public class Bus
     
     public Bus() 
     {
-        //penumpangBiasa = new ArrayList<Penumpang>();
-        //penumpangPrioritas = new ArrayList<Penumpang>();
-        //penumpangBerdiri = new ArrayList<Penumpang>();
+        penumpangBiasa = new ArrayList<Penumpang>();
+        penumpangPrioritas = new ArrayList<Penumpang>();
+        penumpangBerdiri = new ArrayList<Penumpang>();
     }
 
     public ArrayList<Penumpang> getPenumpangBiasa()
